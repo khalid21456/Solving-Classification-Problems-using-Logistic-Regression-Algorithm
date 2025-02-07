@@ -13,4 +13,6 @@ speech. In multiclass classification, the classifier must assign one
 of several labels to each instance. In multilabel classification, the classifier must assign
 a subset of the labels to each instance. 
 
-## ***Manipulation***
+# Support Vector Machine 
+
+<!--**Support Vector Machine** 
